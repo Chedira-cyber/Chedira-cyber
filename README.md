@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Nwafor Chidera Michael (Busquet)
 
-<!--
-**Chedira-cyber/Chedira-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Criminology student with a strong interest in cybercrime and cybersecurity.
 
-Here are some ideas to get you started:
+## 🎯 My Aim
+My aim is to build a career as a cybercrime and cybersecurity professional, combining criminology, crime investigation, and digital security skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Core Interests
+- Cybercrime investigation  
+- Digital forensics  
+- Online fraud and scams  
+
+## 📚 Currently Learning
+- Computer fundamentals  
+- Networking basics  
+- Cybersecurity foundations  
+
+## 🚀 My Journey
+This GitHub documents my learning journey from Year One at university.
